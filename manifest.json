@@ -1,0 +1,16 @@
+{
+  "name": "Campo360 CRM Agropecuario",
+  "short_name": "Campo360",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07291d",
+  "theme_color": "#13543a",
+  "description": "CRM Agropecuario offline-first con soporte PWA e instalación en dispositivos",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='36' fill='%2313543a'/><text x='96' y='120' font-size='90' font-family='system-ui,sans-serif' font-weight='bold' text-anchor='middle' fill='%2391e5af'>360</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
